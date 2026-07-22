@@ -1,0 +1,12 @@
+# Large Files (Exceeds GitHub 100MB Limit)
+File Manager Using Python/exe/Oracle_10g_XE.exe
+File Manager Using Python/exe/Git-2.50.1-64-bit.exe
+convert vid to gif Using Python/*.gif
+
+# Python Virtual Environments & Caches
+create virtual environment/PyTouch/
+create virtual environment/reruirement/
+**/__pycache__/
+*.pyc
+
+# 3a49f5e2d0824d4a6d8302deec6088a023c534f2 was a blob that failed.
